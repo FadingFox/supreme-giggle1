@@ -1,0 +1,2 @@
+# Code Refactor Starter Code
+This Challenge is an example of test driven development. All of the code is working but is then cleaned up to make the code more efficient using HTML semantic tags. The functionality of the webpage will remain unchanged.
